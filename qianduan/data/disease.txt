@@ -1,0 +1,218 @@
+Acne
+Acquired Immunodeficiency Syndrome
+Acute skin abscess
+Aggressive periodontitis
+Alcoholic hepatitis
+Alcoholism
+Allergic asthma
+Allergy
+Alzheimer's Disease
+Amyotrophic lateral sclerosis
+Ankylosing spondylitis
+Anorexia Nervosa
+Aphthous stomatitis
+Aphthous ulcer
+Appendicitis
+Arsenic exposure
+Ascites
+Asthma
+Atherosclerosis
+Atopic dermatitis
+Atopic eczema
+Atopic wheeze
+Atopy
+Atrophic gastritis
+Attention Deficit Hyperactivity Disorder
+Autism
+Autism spectrum disorders
+Autoimmune hepatitis
+Autoimmune polyendocrine syndrome type 1
+Azoospermia
+Bacterial vaginosis
+Barrett's oesophagus
+Behcet's Disease
+Bipolar disorder
+Blepharitis
+Botulism
+Breast cancer
+Bronchiectasis
+Bronchiolitis
+Budd-Chiari syndrome
+Bullous pemphigoid
+Cardiovascular disease
+Caries
+Celiac Disease, Coaliac disease
+Cervical cancer
+Cervicitis
+Chagas' disease
+Chlamydia
+Chronic alcoholic pancreatitis
+Chronic fatigue syndrome
+Chronic kidney disease
+Chronic lung disease
+Chronic Obstructive Pulmonary Disease
+Chronic prostatitis \/ Chronic pelvic pain syndrome
+Chronic Rhinosinusitis
+Chronic Rhinosinusitis with asthma
+Chronic Rhinosinusitis with cystic fibrosis
+Cirrhosis
+Cirrhosis with pneumonia
+Clonorchis sinensis infection
+Clostridium difficile associated disease
+Colon adenomas
+Colorectal cancer
+Conjunctival scarring
+Constipation
+COPD Exacerbation
+Coronary artery disease
+Coronary Heart Disease
+Crohn's Disease
+Cutaneous burn
+Cystic Fibrosis
+Cytolytic vaginosis
+Dandruff
+Denture Stomatitis
+Disease-free 
+Diverticular disease
+Endometrial cancer
+Enthesitis-related arthritis 
+Eosinophilic esophagitis
+Esophageal cancer
+Exacerbations of idiopathic pulmonary fibrosis
+Familial adenomatous polyposis
+Functional dyspepsia
+Gastric carcinoma
+Gastroenteritis
+Gastro-oesophageal reflux disease
+Gestational diabetes
+Gingivitis
+Granulomatosis with polyangiitis
+Granulomatous mastitis
+Graves' disease
+Halitosis
+Hashimoto's thyroiditis
+Head\/Neck cancer
+Heart failure
+Helicobacter pylori infection
+Henoch-Sch?nlein Purpura
+Hepatic encephalopathy
+Hepatitis B
+Hepatitis C
+Hepatocellular cancer
+Hirschsprung-associated enterocolitis
+Hirschsprung's disease
+HIV infection
+HIV-infected pneumonia
+Human papilloma virus infection
+Hutchinson-Gilford progeria syndrome
+Hyperlipidemia
+Hypertension
+Hyperthyroidism
+Idiopathic infertility
+Idiopathic nephrotic syndrome
+Idiopathic Pulmonary Fibrosis
+Idiopathic REM Sleep Behavior Disorder
+Inactive Crohn's Disease
+Infantile eczema
+Infective colitis
+Inflammatory Bowel Disease
+Interstitial cystitis
+Irritable Bowel Syndrome
+Juvenile idiopathic arthritis
+Kawasaki disease
+Kidney stone
+Laryngeal carcinoma
+Liver fibrosis
+Liver transplant
+Lung cancer
+Macular degeneration
+Major depressive disorder
+Maturity-onset diabetes of the young 2
+Megaesophagus
+Microscopic colitis
+Multiple Sclerosis
+Multiple system atrophy
+Myasthenia gravis
+Necrotizing enterocolitis
+Neuromyelitis optica
+Neuropathic bladder
+Non alcoholic steatohepatitis
+Non-alcoholic fatty liver disease
+Nongonococcal urethritis
+Obesity
+Oligoasthenoteratozoospermia
+Opisthorchis felineus infection
+Oral cancer
+Oral leukoplakia
+Oral lichen planus
+Oral potentially malignant disorder
+Osmotic diarrhea
+Osteoarthritis
+Otitis Media
+Overactive bladder
+Pancreatic cancer
+Pancreatitis
+Parkinson's Disease
+Pelvic inflammatory disease
+Periodontal disease
+periodontitis
+Pervasive developmental disorder NOS
+Pneumonia
+Polycystic Ovary Syndrome
+Postmenopausal
+Pouchitis
+Prediabetes
+Preeclamsia
+Pregnancy
+Preterm birth
+Primary biliary cholangitis
+Primary biliary cirrhosis
+Primary Open-Angle Glaucoma
+Primary sclerosing cholangitis
+Primary sclerosing cholangitis-IBD
+Prostate cancer
+Protracted bacterial bronchitis
+Psoriasis
+Psoriatic Arthritis
+Pulmonary tubercolosis
+Reactive arthritis
+Rectal Carcinoma
+Recurrent tonsillitis
+Reflux esophagitis
+Refractory celiac disease
+Rett Syndrome
+Rheumatoid Arthritis
+Rhinovirus infection
+Schizophrenia
+Seminal hyperviscosity
+Sensitive scalp
+Severe fever with thrombocytopenia syndrome
+severe skin and soft tissue infection
+Shiga Toxin-producing E. coli infection
+Short Bowel Syndrome
+Sickle cell disease
+Sj?gren Syndrome
+Small intestine neoplasm
+Smoking
+Spinal cord injury
+Spondyloarthritis
+Stomach cancer
+Systemic lupus erythematosus
+Systemic sclerosis
+T2D with hyperlipidemia
+T2D with hypertension
+T2D with hypertension and hyperlipidemia
+Trachoma
+Transient Ischemic Attack
+Trichomonas vaginalis infection
+Tuberculosis
+Type 1 Diabetes
+Type 2 Diabetes
+Ulcerative Colitis
+Urgency urinary incontinence
+Uveitits
+Viral Diarrhea
+Viral respiratory tract infection
+Vitiligo
+Vulvar vestibulitis syndrome
+Wilson's Disease

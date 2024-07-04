@@ -1,0 +1,58 @@
+name,sim,type
+Faecalibacterium,0.9584898590425107,already_exists
+Bacteroides,0.956853848469686,new_find
+Parabacteroides,0.9562318910392571,new_find
+Alistipes,0.9541922552614304,new_find
+Lactobacillus,0.9535010778175109,already_exists
+Proteobacteria,0.9527086682457536,already_exists
+Streptococcus,0.9507640715813143,already_exists
+Pseudomonas,0.950551179586392,already_exists
+Bacteroidetes,0.9493600893873497,new_find
+Ruminococcus,0.9474377933973143,new_find
+Oscillospira,0.9471643511615029,new_find
+Veillonella,0.9465048771102513,already_exists
+Haemophilus parainfluenzae,0.9447309666709515,new_find
+Firmicutes,0.9439728594164192,new_find
+Leptotrichia,0.9429764794737554,new_find
+Corynebacterium,0.9429090718921419,already_exists
+Dialister,0.9415595644364897,new_find
+Actinomyces,0.9415451449671198,already_exists
+Roseburia,0.9411104909215532,new_find
+Escherichia coli,0.940533999626852,already_exists
+Enterococcus,0.9404959309765184,new_find
+Coprococcus,0.9404623385248635,new_find
+Porphyromonas,0.9390741767713855,new_find
+Propionibacterium,0.9388200445780832,new_find
+Bifidobacterium,0.9377365683351216,already_exists
+Blautia,0.9375257583510809,already_exists
+Prevotella,0.9374796876987628,already_exists
+Bacteroides fragilis,0.9367463419008898,new_find
+Enterobacteriaceae,0.935063010604349,already_exists
+Dorea,0.9346932376898045,new_find
+Capnocytophaga,0.9328381692392305,new_find
+Lachnospiraceae,0.9228296668436724,new_find
+Faecalibacterium prausnitzii,0.9222560229637904,already_exists
+Haemophilus,0.9218309145072514,already_exists
+Lachnospira,0.9208292449223906,already_exists
+Neisseria,0.9188066137041436,already_exists
+Desulfovibrio,0.9171600816254403,new_find
+Bacteriodes uniformis,0.9164646726906369,new_find
+Granulicatella,0.907347303298334,already_exists
+Rothia,0.9059957294522998,already_exists
+Gemella,0.905680216037352,already_exists
+Klebsiella,0.9023244906282557,already_exists
+Staphylococcus,0.8495030201643687,already_exists
+Oribacterium,0.8410826799891501,already_exists
+Stenotrophomonas,0.822302835202288,already_exists
+Porphyromonadaceae,0.7698792796616682,already_exists
+Eggerthella lenta,0.7440913443488864,already_exists
+Bacteroides stercoris,0.7427485989837068,already_exists
+Alloiococcus,0.7340001437994828,already_exists
+Moraxella,0.723965897035219,already_exists
+TM7,0.7126754853561458,already_exists
+Gammaproteobacteria,0.7100248322285866,already_exists
+Comamonadaceae,0.6241690025003356,already_exists
+Clostridiaceae,0.6146751895254638,already_exists
+Nitrosomonadaceae,0.5897471538411918,already_exists
+Sutterella wadsworthensis,0.5872532557011237,already_exists
+Oxalobacteraceae,0.5462881351593073,already_exists
